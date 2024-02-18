@@ -1,0 +1,4 @@
+name: Reinforce
+version: '${version}'
+main: com.khw32.reinforce.Reinforce
+api-version: '1.19'
